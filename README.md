@@ -25,10 +25,7 @@
 * **Font Awesome:** Iconografía de alta calidad.
 
 ---
-
-## 📸 Vista Previa del Diseño
-
-El proyecto utiliza una paleta de colores **Gold & Dark** (#ffcc00 y #0d0d0d) para transmitir una sensación de exclusividad y lujo. Las tarjetas de productos incluyen efectos de escala 1.15x al pasar el   
+ 
 ## 📸 Vista Previa del Diseño
 
 El proyecto utiliza una paleta de colores **Gold & Dark** (#ffcc00 y #0d0d0d) para transmitir una sensación de exclusividad y lujo. Las tarjetas de productos incluyen efectos de escala 1.15x al pasar el 
